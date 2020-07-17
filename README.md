@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I’m currently working on 
+- [Code Crunch](https://codecrunch.io). We aim to automate instructors work in order for them to get back to what's most important, teaching.
+
 <!--
 **jabernall24/jabernall24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
