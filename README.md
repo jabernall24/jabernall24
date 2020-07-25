@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-## I’m currently working on 
+## 🔭 I’m currently working on
 - [Code Crunch](https://codecrunch.io). We aim to automate instructors work in order for them to get back to what's most important, teaching.
+
+## 💬 Ask me about
+- Anything Swift related
+
+###### Stats Credit -> https://github.com/anuraghazra/github-readme-stats
+[![Jesus Bernal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jabernall24&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jabernall24/jabernall24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
