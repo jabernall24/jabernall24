@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on
 - [Code Crunch](https://codecrunch.io). We aim to automate instructors work in order for them to get back to what's most important, teaching.
-- [SeeFood](https://apps.apple.com/us/app/id1525052306) is an app for customers and restaurants that allows restaurants showcase their 
+- [SeeFood](https://github.com/jabernall24/SeeFood) is an app for customers and restaurants that allows restaurants showcase their 
   dishes and allows customers to view their dishes before they order.
 
 ## 💬 Ask me about
