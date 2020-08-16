@@ -6,7 +6,15 @@
   dishes and allows customers to view their dishes before they order.
 
 ## 💬 Ask me about
-- Anything Swift related
+- Anything Swift or Go related
+
+
+Checkout my articles on [medium](https://medium.com/@jabernall24) and would love for some feedback on them.
+## 📫 How to reach me
+- [Email](jabernall24@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/jesus-andres-bernal-lopez/)
+- [Twitter](https://twitter.com/jesusabernall)
+
 
 ###### Stats Credit -> https://github.com/anuraghazra/github-readme-stats
 [![Jesus Bernal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jabernall24&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
