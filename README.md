@@ -11,7 +11,7 @@
 
 Checkout my articles on [medium](https://medium.com/@jabernall24) and would love for some feedback on them.
 ## 📫 How to reach me
-- [Email](jabernall24@gmail.com)
+- Email (jabernall24@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/jesus-andres-bernal-lopez/)
 - [Twitter](https://twitter.com/jesusabernall)
 
