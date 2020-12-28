@@ -8,11 +8,9 @@
 ## 💬 Ask me about
 - Anything Swift or Go related
 
-## 🌱 I’m currently learning
-- Looking to improve my writing by writing on [medium](https://medium.com/@jabernall24) and would love for some feedback.
 
 ## 📫 How to reach me
-- Email (jabernall24@gmail.com)
+- jabernall24@gmail.com
 - [Linkedin](https://www.linkedin.com/in/jesus-andres-bernal-lopez/)
 - [Twitter](https://twitter.com/jesusabernall)
 
@@ -33,4 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🌱 I’m currently learning
+- Looking to improve my writing by writing on [medium](https://medium.com/@jabernall24) and would love for some feedback.
 -->
